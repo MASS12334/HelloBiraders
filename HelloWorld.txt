@@ -1,4 +1,6 @@
 Oscar
+HOWDY MODI
+Namunoo
 hola amigos
 comos estas
 kabhi kabhi lagta hai ki apun ich bhagwaan hai
@@ -10,7 +12,5 @@ apun chand pe hai
 hola amigos hola amigos
 change by anjali
 hello
-
-=======
 change by anjali
->>>>>>> [anjali] deleted one word
+hola amigos hola amigos
